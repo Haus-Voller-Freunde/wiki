@@ -1,4 +1,5 @@
 theme: just-the-docs
 title: "Haus voller Freunde Wiki"
+remote_theme: just-the-docs/just-the-docs
 description: "Das Wiki für das Haus voller Freunde"
 url: https://haus-voller-freunde.github.io
