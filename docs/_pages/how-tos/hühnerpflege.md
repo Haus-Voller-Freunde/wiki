@@ -2,6 +2,7 @@
 title: Hühnerpflege
 # layout: default
 permalink: /how-tos/hühnerpflege/
+parent: how-tos
 ---
 
 # Hühnerpflege

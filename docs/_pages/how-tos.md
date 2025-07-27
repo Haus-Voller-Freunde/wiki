@@ -2,6 +2,7 @@
 title: Alle How-Tos
 layout: default
 permalink: /how-tos/
+has_children: true
 ---
 
 # Übersicht: How-Tos

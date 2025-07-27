@@ -2,6 +2,7 @@
 title: Katzenpflege
 # layout: default
 permalink: /how-tos/katzenpflege/
+parent: how-tos
 ---
 
 # Katzenpflege
