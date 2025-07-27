@@ -6,3 +6,6 @@ url: https://wiki.haus-vollder-freunde.de
 baseurl: ""
 include:
   - _pages
+just_the_docs:
+  includes:
+    head: head_custom.html
