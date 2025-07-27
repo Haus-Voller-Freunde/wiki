@@ -1,8 +1,9 @@
 ---
 title: Alle How-Tos
-layout: default
+# layout: default
 permalink: /how-tos/
 has_children: true
+lang: de-DE
 ---
 
 # Übersicht: How-Tos

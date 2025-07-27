@@ -1,6 +1,7 @@
 ---
 title: Home
 nav_order: 1
+lang: de-DE
 ---
 
 # Haus voller Freunde Wiki

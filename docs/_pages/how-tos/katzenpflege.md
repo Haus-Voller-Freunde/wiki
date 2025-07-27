@@ -3,6 +3,7 @@ title: Katzenpflege
 # layout: default
 permalink: /how-tos/katzenpflege/
 parent: Alle How-Tos
+lang: de-DE
 ---
 
 **NOTFALL-NUMMERN:**

@@ -3,6 +3,7 @@ title: Hühnerpflege
 # layout: default
 permalink: /how-tos/hühnerpflege/
 parent: Alle How-Tos
+lang: de-DE
 ---
 
 ## Ernährung
