@@ -4,3 +4,5 @@ color_scheme: light
 description: "Das Wiki für das Haus voller Freunde"
 url: https://wiki.haus-vollder-freunde.de
 baseurl: ""
+include:
+  - _pages
