@@ -9,3 +9,4 @@ include:
 just_the_docs:
   includes:
     head: head_custom.html
+lang: de-DE
