@@ -1,7 +1,7 @@
 ---
 title: Über uns
 # layout: default
-# permalink: /how-tos/
+permalink: /über-uns/
 lang: de-DE
 ---
 

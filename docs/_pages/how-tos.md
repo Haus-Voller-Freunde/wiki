@@ -15,4 +15,3 @@ lang: de-DE
     {% endif %}
   {% endfor %}
 </ul>
-
