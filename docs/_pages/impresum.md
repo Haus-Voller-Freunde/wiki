@@ -7,13 +7,13 @@ permalink: /impressum/
 
 ### Haus voller Freunde e.V.
 
-Theenhausener Straße 5
+Theenhausener Straße 5 <br/>
 33824 Werther (West.)
 
 ### Vertreten durch den Vorstand
 
-Daniel Kapelle
-Linette Weiß
+Daniel Kapelle <br/>
+Linette Weiß <br/>
 Timo Weike
 
 ### Kontakt
@@ -22,13 +22,13 @@ E-Mail: <verein@haus-vollder-freunde.de>
 
 ### Registereintrag
 
-Eingetragen im Vereinsregister beim Amtsgericht Bielefeld  
+Eingetragen im Vereinsregister beim Amtsgericht Bielefeld <br/>
 Registernummer: VR 4848  
 
 ### Inhaltlich verantwortlich gemäß § 18 Abs. 2 MStV
 
-Timo Weike
-Wilhelm-Busch-Straße 20
+Timo Weike <br/>
+Wilhelm-Busch-Straße 20 <br/>
 33604 Bielefeld
 
 ### Haftung für Inhalte
