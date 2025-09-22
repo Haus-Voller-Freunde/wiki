@@ -7,6 +7,8 @@ lang: de-DE
 
 # Beschlüsse des Plenums
 
+## Küche
+
 - 1.1 wer kocht hat das Hütchen, dass die Sachen bis zum Folgetag kühl gestellt werden; ggf. auch dadurch, dass der Kühlschrank freigeräumt wird (20.07)
     
 - 1.2 es soll pflanzliche Milch gekauft werden, die günstig ist, und Proteine & gute Nährwerte hat (13.07)
@@ -26,7 +28,7 @@ lang: de-DE
 
   
 
-**Bauarbeiten**
+## Bauarbeiten
 
 - 2.1 Gäste immer klar briefen, was zu tun ist und wo sie aufpassen müssen (20.07)
     
@@ -37,7 +39,7 @@ lang: de-DE
 
   
 
-**Infrastruktur**
+## Infrastruktur
 
 - 3.1 gemeinsame Passwörter über die KeyPass-Datei im Drive teilen (20.07)
     
@@ -48,7 +50,7 @@ lang: de-DE
 
   
 
-**Soziales**
+## Soziales
 
 - 4.1 Dates als Anreiz für gemeinsame 1-zu-1 Aktionen (20.07)
     
@@ -95,14 +97,14 @@ lang: de-DE
 
   
 
-**Katzen**
+## Katzen
 
 - 5.1 Timo, Vanessa, und Linette wechseln sich ab mit Katzenklo sauber machen (20.07)
     
 
   
 
-**Haus**
+## Haus
 
 - 6.1 Musikzimmer soll schallgedämmt sein (20.07)
     
