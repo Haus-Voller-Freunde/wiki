@@ -1,5 +1,5 @@
 ---
-title: Alle How-Tos
+title: Alle Beschlüsse
 permalink: /beschluesse/
 has_children: false
 lang: de-DE
